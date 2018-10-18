@@ -2,6 +2,7 @@
 
 def load_library(emoticons)
   # code goes here
+  hash={}
 end
 
 def get_japanese_emoticon
